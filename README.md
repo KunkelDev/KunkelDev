@@ -16,8 +16,8 @@
   <a href="https://www.youtube.com/c/KunkelDev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=KunkelDev.KunkelDev">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=KunkelDev.KunkelDev" alt="Visitor Count"/>
+  <a href="https://github.com/KunkelDev">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=KunkelDev.KunkelDev&style=for-the-badge&logo=github"/>
   </a>
 </p>
 
