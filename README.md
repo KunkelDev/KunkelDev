@@ -67,9 +67,3 @@
 - [Video Title 2](https://youtube.com)
 - [Video Title 3](https://youtube.com)
 <!-- YOUTUBE:END -->
-
----
-
-<p align="center">
-  <img src="https://github.com/KunkelDev/KunkelDev/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
