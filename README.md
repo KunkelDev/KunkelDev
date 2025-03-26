@@ -18,27 +18,19 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 🌐 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🌐 Frontend
+[![My Stack](https://skillicons.dev/icons?i=react,vue,tailwind,html&theme=dark&animated=true&perline=4)](https://skillicons.dev)
 
-#### 🧠 **Backend**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🧠 Backend
+[![My Stack](https://skillicons.dev/icons?i=spring,python,java&theme=dark&animated=true&perline=3)](https://skillicons.dev)
 
-#### 🎮 **Game Dev**
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+### 🎮 Game Dev
+[![My Stack](https://skillicons.dev/icons?i=unity,unreal&theme=dark&animated=true&perline=2)](https://skillicons.dev)
 
-#### 🗄️ **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Databases
+[![My Stack](https://skillicons.dev/icons?i=postgres&theme=dark&animated=true)](https://skillicons.dev)
 
-#### 🎨 **Design Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+### 🎨 Design Tools
+[![My Stack](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&animated=true&perline=3)](https://skillicons.dev)
