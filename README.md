@@ -21,16 +21,16 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-[![My Stack](https://skillicons.dev/icons?i=react,vue,tailwind,html&theme=dark&animated=true&perline=4)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=react,vue,tailwind,html&theme=dark&animated=true&perline=4)]()
 
 ### 🧠 Backend
-[![My Stack](https://skillicons.dev/icons?i=spring,python,java&theme=dark&animated=true&perline=3)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=spring,python,java&theme=dark&animated=true&perline=3)]()
 
 ### 🎮 Game Dev
-[![My Stack](https://skillicons.dev/icons?i=unity,unreal&theme=dark&animated=true&perline=2)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=unity,unreal&theme=dark&animated=true&perline=2)]()
 
 ### 🗄️ Databases
-[![My Stack](https://skillicons.dev/icons?i=postgres&theme=dark&animated=true)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=postgres&theme=dark&animated=true)]()
 
 ### 🎨 Design Tools
-[![My Stack](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&animated=true&perline=3)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&animated=true&perline=3)]()
