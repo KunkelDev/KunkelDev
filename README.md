@@ -18,8 +18,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ### 🌐 Frontend
 [![My Stack](https://skillicons.dev/icons?i=react,vue,tailwind,html&theme=dark&animated=true&perline=4)]()
 
