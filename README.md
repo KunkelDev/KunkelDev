@@ -49,19 +49,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunkelDev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KunkelDev&theme=vision-friendly-dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunkelDev&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
-
----
-
-### 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Video Title 1](https://youtube.com)
-- [Video Title 2](https://youtube.com)
-- [Video Title 3](https://youtube.com)
-<!-- YOUTUBE:END -->
