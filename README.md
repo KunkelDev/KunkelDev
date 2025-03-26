@@ -44,12 +44,3 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunkelDev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunkelDev&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
